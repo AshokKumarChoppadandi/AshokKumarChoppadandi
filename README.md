@@ -58,6 +58,7 @@ I'm a passionate **Lead Software Engineer** with over 10+ years of experience in
 ![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 ![HCL](https://img.shields.io/badge/HCL-%235835CC?logo=terraform&logoColor=white)
+![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-%23121011?logo=gnu-bash&logoColor=white)
 
 ### 🖥 Virtualization
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white)
