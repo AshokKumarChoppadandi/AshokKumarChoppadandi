@@ -1,6 +1,6 @@
 <!-- Banner image (optional custom design) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-github-username/your-github-username/main/assets/banner.png" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/AshokKumarChoppadandi/AshokKumarChoppadandi/main/Background.jpg" alt="Banner" />
 </p>
 
 <h1 align="center">👋 Hi there, I'm Ashok Kumar Choppadandi</h1>
@@ -65,8 +65,8 @@ I'm a passionate **Lead Software Engineer** with over 10+ years of experience in
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashok-kumar-choppadandi-403404175"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-blog.com"><img src="https://img.shields.io/badge/Blog-grey?logo=dev.to&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://handson-with-apache-spark.blogspot.com"><img src="https://img.shields.io/badge/Blog-grey?logo=dev.to&logoColor=white" /></a>
+  <a href="mailto:ashokkumar98778@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
