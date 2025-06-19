@@ -36,6 +36,7 @@ I'm a passionate **Lead Software Engineer** with over 10+ years of experience in
 ![Packer](https://img.shields.io/badge/Packer-02A8EF?logo=packer&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-Automated-success?logo=githubactions&logoColor=white)
 
 ### 🤖 Generative AI & LLMs
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon-Bedrock-232F3E?logo=amazon&logoColor=white)
@@ -82,3 +83,58 @@ I'm a passionate **Lead Software Engineer** with over 10+ years of experience in
 > 📌 _"The best way to learn is to teach, and the best way to lead is to serve."_
 
 ⭐️ Thanks for visiting! Don’t forget to check out some of my pinned projects below 👇
+
+# CI/CD Demo Project - JavaExamples:
+
+✅ Description
+A simple and complete CI/CD pipeline using GitHub Actions to compile, test and build the Maven artifact and push it to Maven Central repository.
+
+## 📁 Recommended Project Structure
+
+```
+JavaExamples/
+├── .github/
+│   └── workflows/
+│       └── publish-release-from-release.yml
+|       └── publish-snapshot-from-feature.yml
+|       └── publish-snapshot-from-release.yml
+├── src/
+│   └── main
+|       └── java
+|           └── App.java
+|       └── resources
+|           └── config.properties
+│   └── test
+|       └── java
+|           └── App.java
+|       └── resources
+|           └── test-config.properties
+├── Dockerfile
+├── .gitignore
+├── README.md
+├── pom.xml
+```
+
+## ✅ Features
+
+- Build and test Java (Maven) application
+- Publish the Jar to GitHub Packages for all the features / snapshots versions
+- Publish the Jar to GitHub Packages & Maven Central for all the release versions
+- Dockerize the application
+- Push Docker image to Docker Hub
+- Ready for Kubernetes deployment (extendable)
+
+## 🧪 Try It Out
+
+1. Fork or clone this repo
+2. Add `DOCKER_USERNAME` and `DOCKER_PASSWORD` as secrets
+3. Push to `main` branch
+4. Watch Actions tab!
+
+## 🛠️ Tech Stack
+
+- Java
+- Maven
+- GitHub Actions
+- Docker
+- (Optional) Kubernetes
