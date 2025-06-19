@@ -51,6 +51,11 @@ I'm a passionate **Lead Software Engineer** with over 10+ years of experience in
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 ![HCL](https://img.shields.io/badge/HCL-%235835CC?logo=terraform&logoColor=white)
 
+### 🖥 Virtualization
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white)
+![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?logo=vagrant&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white)
+
 ---
 
 ## 📈 GitHub Stats
