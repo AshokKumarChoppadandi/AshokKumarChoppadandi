@@ -33,13 +33,22 @@ I'm a passionate **Lead Software Engineer** with over 10+ years of experience in
 ![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
+![Packer](https://img.shields.io/badge/Packer-02A8EF?logo=packer&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
 ### 🤖 Generative AI & LLMs
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon-Bedrock-232F3E?logo=amazon&logoColor=white)
 ![Amazon Q](https://img.shields.io/badge/Amazon-Q-FF9900?logo=aws&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-black?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB...&logoColor=white) <!-- You can replace with actual image or link -->
 ![LLMs](https://img.shields.io/badge/LLMs-In%20Progress-lightblue)
+
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![HCL](https://img.shields.io/badge/HCL-%235835CC?logo=terraform&logoColor=white)
 
 ---
 
