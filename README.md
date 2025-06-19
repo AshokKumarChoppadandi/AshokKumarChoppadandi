@@ -44,6 +44,14 @@ I'm a passionate **Lead Software Engineer** with over 10+ years of experience in
 ![Ollama](https://img.shields.io/badge/Ollama-black?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB...&logoColor=white) <!-- You can replace with actual image or link -->
 ![LLMs](https://img.shields.io/badge/LLMs-In%20Progress-lightblue)
 
+### 📊 Observability & Analytics
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-000000?logo=logstash&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-E8478B?logo=kibana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![Alertmanager](https://img.shields.io/badge/Alertmanager-CF2C00?logo=prometheus&logoColor=white)
+
 ### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
